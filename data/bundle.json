@@ -1,0 +1,2823 @@
+{
+  "apps": [
+    {
+      "id": 1,
+      "category": "CRM & Sales",
+      "name": "Salesforce",
+      "hint": "salesforce.com"
+    },
+    {
+      "id": 2,
+      "category": "CRM & Sales",
+      "name": "HubSpot",
+      "hint": "hubspot.com"
+    },
+    {
+      "id": 3,
+      "category": "CRM & Sales",
+      "name": "Pipedrive",
+      "hint": "pipedrive.com"
+    },
+    {
+      "id": 4,
+      "category": "CRM & Sales",
+      "name": "Attio",
+      "hint": "attio.com"
+    },
+    {
+      "id": 5,
+      "category": "CRM & Sales",
+      "name": "Twenty",
+      "hint": "twenty.com"
+    },
+    {
+      "id": 6,
+      "category": "CRM & Sales",
+      "name": "Podio",
+      "hint": "podio.com"
+    },
+    {
+      "id": 7,
+      "category": "CRM & Sales",
+      "name": "Zoho CRM",
+      "hint": "zoho.com/crm"
+    },
+    {
+      "id": 8,
+      "category": "CRM & Sales",
+      "name": "Close",
+      "hint": "close.com"
+    },
+    {
+      "id": 9,
+      "category": "CRM & Sales",
+      "name": "Copper",
+      "hint": "copper.com"
+    },
+    {
+      "id": 10,
+      "category": "CRM & Sales",
+      "name": "DealCloud",
+      "hint": "api.docs.dealcloud.com"
+    },
+    {
+      "id": 11,
+      "category": "Support & Helpdesk",
+      "name": "Zendesk",
+      "hint": "zendesk.com"
+    },
+    {
+      "id": 12,
+      "category": "Support & Helpdesk",
+      "name": "Intercom",
+      "hint": "intercom.com"
+    },
+    {
+      "id": 13,
+      "category": "Support & Helpdesk",
+      "name": "Freshdesk",
+      "hint": "freshdesk.com"
+    },
+    {
+      "id": 14,
+      "category": "Support & Helpdesk",
+      "name": "Front",
+      "hint": "front.com"
+    },
+    {
+      "id": 15,
+      "category": "Support & Helpdesk",
+      "name": "Pylon",
+      "hint": "usepylon.com"
+    },
+    {
+      "id": 16,
+      "category": "Support & Helpdesk",
+      "name": "LiveAgent",
+      "hint": "liveagent.com"
+    },
+    {
+      "id": 17,
+      "category": "Support & Helpdesk",
+      "name": "Plain",
+      "hint": "plain.com"
+    },
+    {
+      "id": 18,
+      "category": "Support & Helpdesk",
+      "name": "Help Scout",
+      "hint": "helpscout.com"
+    },
+    {
+      "id": 19,
+      "category": "Support & Helpdesk",
+      "name": "Gorgias",
+      "hint": "gorgias.com"
+    },
+    {
+      "id": 20,
+      "category": "Support & Helpdesk",
+      "name": "Gladly",
+      "hint": "gladly.com"
+    },
+    {
+      "id": 21,
+      "category": "Communications & Messaging",
+      "name": "Slack",
+      "hint": "slack.com"
+    },
+    {
+      "id": 22,
+      "category": "Communications & Messaging",
+      "name": "Twilio",
+      "hint": "twilio.com"
+    },
+    {
+      "id": 23,
+      "category": "Communications & Messaging",
+      "name": "Zoho Cliq",
+      "hint": "zoho.com/cliq"
+    },
+    {
+      "id": 24,
+      "category": "Communications & Messaging",
+      "name": "Lark (Larksuite)",
+      "hint": "open.larksuite.com"
+    },
+    {
+      "id": 25,
+      "category": "Communications & Messaging",
+      "name": "Pumble",
+      "hint": "pumble.com"
+    },
+    {
+      "id": 26,
+      "category": "Communications & Messaging",
+      "name": "Discord",
+      "hint": "discord.com"
+    },
+    {
+      "id": 27,
+      "category": "Communications & Messaging",
+      "name": "Telegram",
+      "hint": "core.telegram.org"
+    },
+    {
+      "id": 28,
+      "category": "Communications & Messaging",
+      "name": "WhatsApp Business",
+      "hint": "developers.facebook.com/docs/whatsapp"
+    },
+    {
+      "id": 29,
+      "category": "Communications & Messaging",
+      "name": "Aircall",
+      "hint": "aircall.io"
+    },
+    {
+      "id": 30,
+      "category": "Communications & Messaging",
+      "name": "Vonage",
+      "hint": "developer.vonage.com"
+    },
+    {
+      "id": 31,
+      "category": "Marketing, Ads & Social",
+      "name": "Google Ads",
+      "hint": "developers.google.com/google-ads"
+    },
+    {
+      "id": 32,
+      "category": "Marketing, Ads & Social",
+      "name": "Meta Ads",
+      "hint": "developers.facebook.com/docs/marketing-apis"
+    },
+    {
+      "id": 33,
+      "category": "Marketing, Ads & Social",
+      "name": "LinkedIn Ads",
+      "hint": "learn.microsoft.com/linkedin/marketing"
+    },
+    {
+      "id": 34,
+      "category": "Marketing, Ads & Social",
+      "name": "GoHighLevel",
+      "hint": "highlevel.stoplight.io"
+    },
+    {
+      "id": 35,
+      "category": "Marketing, Ads & Social",
+      "name": "Mailchimp",
+      "hint": "mailchimp.com/developer"
+    },
+    {
+      "id": 36,
+      "category": "Marketing, Ads & Social",
+      "name": "Klaviyo",
+      "hint": "developers.klaviyo.com"
+    },
+    {
+      "id": 37,
+      "category": "Marketing, Ads & Social",
+      "name": "systeme.io",
+      "hint": "systeme.io"
+    },
+    {
+      "id": 38,
+      "category": "Marketing, Ads & Social",
+      "name": "Pinterest",
+      "hint": "developers.pinterest.com"
+    },
+    {
+      "id": 39,
+      "category": "Marketing, Ads & Social",
+      "name": "Threads (Meta)",
+      "hint": "developers.facebook.com/docs/threads"
+    },
+    {
+      "id": 40,
+      "category": "Marketing, Ads & Social",
+      "name": "SendGrid",
+      "hint": "sendgrid.com"
+    },
+    {
+      "id": 41,
+      "category": "Ecommerce",
+      "name": "Shopify",
+      "hint": "shopify.dev"
+    },
+    {
+      "id": 42,
+      "category": "Ecommerce",
+      "name": "WooCommerce",
+      "hint": "woocommerce.com/document/woocommerce-rest-api"
+    },
+    {
+      "id": 43,
+      "category": "Ecommerce",
+      "name": "BigCommerce",
+      "hint": "developer.bigcommerce.com"
+    },
+    {
+      "id": 44,
+      "category": "Ecommerce",
+      "name": "Salesforce Commerce Cloud",
+      "hint": "developer.salesforce.com/docs/commerce"
+    },
+    {
+      "id": 45,
+      "category": "Ecommerce",
+      "name": "Magento (Adobe Commerce)",
+      "hint": "developer.adobe.com/commerce"
+    },
+    {
+      "id": 46,
+      "category": "Ecommerce",
+      "name": "Squarespace",
+      "hint": "developers.squarespace.com"
+    },
+    {
+      "id": 47,
+      "category": "Ecommerce",
+      "name": "Ecwid",
+      "hint": "api-docs.ecwid.com"
+    },
+    {
+      "id": 48,
+      "category": "Ecommerce",
+      "name": "Gumroad",
+      "hint": "gumroad.com/api"
+    },
+    {
+      "id": 49,
+      "category": "Ecommerce",
+      "name": "Amazon Selling Partner",
+      "hint": "developer-docs.amazon.com/sp-api"
+    },
+    {
+      "id": 50,
+      "category": "Ecommerce",
+      "name": "fanbasis",
+      "hint": "fanbasis.com"
+    },
+    {
+      "id": 51,
+      "category": "Data, SEO & Scraping",
+      "name": "DataForSEO",
+      "hint": "docs.dataforseo.com"
+    },
+    {
+      "id": 52,
+      "category": "Data, SEO & Scraping",
+      "name": "SE Ranking",
+      "hint": "https://seranking.com/api-documentation.html"
+    },
+    {
+      "id": 53,
+      "category": "Data, SEO & Scraping",
+      "name": "Ahrefs",
+      "hint": "ahrefs.com/api"
+    },
+    {
+      "id": 54,
+      "category": "Data, SEO & Scraping",
+      "name": "MrScraper",
+      "hint": "docs.mrscraper.com"
+    },
+    {
+      "id": 55,
+      "category": "Data, SEO & Scraping",
+      "name": "Apify",
+      "hint": "docs.apify.com"
+    },
+    {
+      "id": 56,
+      "category": "Data, SEO & Scraping",
+      "name": "Firecrawl",
+      "hint": "firecrawl.dev"
+    },
+    {
+      "id": 57,
+      "category": "Data, SEO & Scraping",
+      "name": "Bright Data",
+      "hint": "brightdata.com"
+    },
+    {
+      "id": 58,
+      "category": "Data, SEO & Scraping",
+      "name": "Sherlock",
+      "hint": "github.com/sherlock-project/sherlock"
+    },
+    {
+      "id": 59,
+      "category": "Data, SEO & Scraping",
+      "name": "Waterfall.io",
+      "hint": "waterfall.io"
+    },
+    {
+      "id": 60,
+      "category": "Data, SEO & Scraping",
+      "name": "Clay",
+      "hint": "clay.com"
+    },
+    {
+      "id": 61,
+      "category": "Developer & Infra",
+      "name": "GitHub",
+      "hint": "docs.github.com/rest"
+    },
+    {
+      "id": 62,
+      "category": "Developer & Infra",
+      "name": "Vercel",
+      "hint": "vercel.com/docs/rest-api"
+    },
+    {
+      "id": 63,
+      "category": "Developer & Infra",
+      "name": "Netlify",
+      "hint": "docs.netlify.com/api"
+    },
+    {
+      "id": 64,
+      "category": "Developer & Infra",
+      "name": "Cloudflare",
+      "hint": "developers.cloudflare.com/api"
+    },
+    {
+      "id": 65,
+      "category": "Developer & Infra",
+      "name": "Supabase",
+      "hint": "supabase.com/docs"
+    },
+    {
+      "id": 66,
+      "category": "Developer & Infra",
+      "name": "Neo4j",
+      "hint": "neo4j.com/docs/api"
+    },
+    {
+      "id": 67,
+      "category": "Developer & Infra",
+      "name": "Snowflake",
+      "hint": "docs.snowflake.com"
+    },
+    {
+      "id": 68,
+      "category": "Developer & Infra",
+      "name": "MongoDB Atlas",
+      "hint": "mongodb.com/docs/atlas/api"
+    },
+    {
+      "id": 69,
+      "category": "Developer & Infra",
+      "name": "Datadog",
+      "hint": "docs.datadoghq.com/api"
+    },
+    {
+      "id": 70,
+      "category": "Developer & Infra",
+      "name": "Sentry",
+      "hint": "docs.sentry.io/api"
+    },
+    {
+      "id": 71,
+      "category": "Productivity & PM",
+      "name": "Notion",
+      "hint": "developers.notion.com"
+    },
+    {
+      "id": 72,
+      "category": "Productivity & PM",
+      "name": "Airtable",
+      "hint": "airtable.com/developers"
+    },
+    {
+      "id": 73,
+      "category": "Productivity & PM",
+      "name": "Linear",
+      "hint": "developers.linear.app"
+    },
+    {
+      "id": 74,
+      "category": "Productivity & PM",
+      "name": "Jira",
+      "hint": "developer.atlassian.com"
+    },
+    {
+      "id": 75,
+      "category": "Productivity & PM",
+      "name": "Asana",
+      "hint": "developers.asana.com"
+    },
+    {
+      "id": 76,
+      "category": "Productivity & PM",
+      "name": "Monday.com",
+      "hint": "developer.monday.com"
+    },
+    {
+      "id": 77,
+      "category": "Productivity & PM",
+      "name": "ClickUp",
+      "hint": "clickup.com/api"
+    },
+    {
+      "id": 78,
+      "category": "Productivity & PM",
+      "name": "Coda",
+      "hint": "coda.io/developers"
+    },
+    {
+      "id": 79,
+      "category": "Productivity & PM",
+      "name": "Smartsheet",
+      "hint": "smartsheet.com/developers"
+    },
+    {
+      "id": 80,
+      "category": "Productivity & PM",
+      "name": "Harvest",
+      "hint": "help.getharvest.com/api-v2"
+    },
+    {
+      "id": 81,
+      "category": "Finance & Fintech",
+      "name": "Stripe",
+      "hint": "stripe.com/docs/api"
+    },
+    {
+      "id": 82,
+      "category": "Finance & Fintech",
+      "name": "Plaid",
+      "hint": "plaid.com/docs"
+    },
+    {
+      "id": 83,
+      "category": "Finance & Fintech",
+      "name": "Binance",
+      "hint": "https://binance-docs.github.io/apidocs/spot/en/"
+    },
+    {
+      "id": 84,
+      "category": "Finance & Fintech",
+      "name": "Paygent Connect",
+      "hint": "https://docs.nmi.com/reference/overview"
+    },
+    {
+      "id": 85,
+      "category": "Finance & Fintech",
+      "name": "iPayX",
+      "hint": "ipayx.ai/docs"
+    },
+    {
+      "id": 86,
+      "category": "Finance & Fintech",
+      "name": "QuickBooks",
+      "hint": "developer.intuit.com"
+    },
+    {
+      "id": 87,
+      "category": "Finance & Fintech",
+      "name": "Xero",
+      "hint": "developer.xero.com"
+    },
+    {
+      "id": 88,
+      "category": "Finance & Fintech",
+      "name": "Brex",
+      "hint": "developer.brex.com"
+    },
+    {
+      "id": 89,
+      "category": "Finance & Fintech",
+      "name": "Ramp",
+      "hint": "docs.ramp.com"
+    },
+    {
+      "id": 90,
+      "category": "Finance & Fintech",
+      "name": "PitchBook",
+      "hint": "https://pitchbook.com/help/PitchBook-api"
+    },
+    {
+      "id": 91,
+      "category": "AI, Research & Media-native",
+      "name": "NotebookLM",
+      "hint": "cloud.google.com/gemini"
+    },
+    {
+      "id": 92,
+      "category": "AI, Research & Media-native",
+      "name": "Otter AI",
+      "hint": "help.otter.ai"
+    },
+    {
+      "id": 93,
+      "category": "AI, Research & Media-native",
+      "name": "Fathom",
+      "hint": "fathom.video"
+    },
+    {
+      "id": 94,
+      "category": "AI, Research & Media-native",
+      "name": "Consensus",
+      "hint": "consensus.app"
+    },
+    {
+      "id": 95,
+      "category": "AI, Research & Media-native",
+      "name": "Reducto",
+      "hint": "reducto.ai"
+    },
+    {
+      "id": 96,
+      "category": "AI, Research & Media-native",
+      "name": "Devin",
+      "hint": "docs.devin.ai"
+    },
+    {
+      "id": 97,
+      "category": "AI, Research & Media-native",
+      "name": "higgsfield",
+      "hint": "higgsfield.ai/cli"
+    },
+    {
+      "id": 98,
+      "category": "AI, Research & Media-native",
+      "name": "Mermaid CLI",
+      "hint": "github.com/mermaid-js/mermaid-cli"
+    },
+    {
+      "id": 99,
+      "category": "AI, Research & Media-native",
+      "name": "YouTube Transcript",
+      "hint": "transcriptapi.com"
+    },
+    {
+      "id": 100,
+      "category": "AI, Research & Media-native",
+      "name": "Grain",
+      "hint": "grain.com"
+    }
+  ],
+  "results": {
+    "meta": {
+      "total_apps": 100,
+      "researched": 98,
+      "verified": 0,
+      "agent_only": 98,
+      "queued": 2,
+      "generated_at": "2026-07-12",
+      "pipeline": "composio_api + docs_heuristics (no anthropic)"
+    },
+    "apps": [
+      {
+        "id": 1,
+        "category": "CRM & Sales",
+        "name": "Salesforce",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Composio toolkit \u2014 184 tools. Salesforce is a leading CRM platform integrating sales, service, marketing, and analytics to build customer relationships and drive business growth",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://www.salesforce.com/in/",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:salesforce+docs_heuristics"
+      },
+      {
+        "id": 2,
+        "category": "CRM & Sales",
+        "name": "HubSpot",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "Composio toolkit \u2014 244 tools. HubSpot is an inbound marketing, sales, and customer service platform integrating CRM, email automation, and analytics to facilitate lead nurturing and seamless customer experiences",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://www.hubspot.com/",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:hubspot+docs_heuristics"
+      },
+      {
+        "id": 3,
+        "category": "CRM & Sales",
+        "name": "Pipedrive",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Signup is self-serve but production use likely needs manual approval.",
+        "api_surface": "Composio toolkit \u2014 399 tools. Pipedrive is a sales management tool built around pipeline visualization, lead tracking, activity reminders, and automation to keep deals progressing",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": "Manual approval step between signup and production access",
+        "evidence_url": "https://www.pipedrive.com/",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:pipedrive+docs_heuristics"
+      },
+      {
+        "id": 4,
+        "category": "CRM & Sales",
+        "name": "Attio",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Unknown, narrow",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://attio.com",
+        "research_status": "verified",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:attio+docs_heuristics"
+      },
+      {
+        "id": 5,
+        "category": "CRM & Sales",
+        "name": "Twenty",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "REST, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://twenty.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 6,
+        "category": "CRM & Sales",
+        "name": "Podio",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Unknown, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://podio.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 7,
+        "category": "CRM & Sales",
+        "name": "Zoho CRM",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Signup is self-serve but production use likely needs manual approval.",
+        "api_surface": "Composio toolkit \u2014 57 tools. Zoho is a suite of cloud applications including CRM, email marketing, and collaboration tools, enabling businesses to automate and scale operations",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": "Manual approval step between signup and production access",
+        "evidence_url": "https://www.zoho.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:zoho+docs_heuristics"
+      },
+      {
+        "id": 8,
+        "category": "CRM & Sales",
+        "name": "Close",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "gated",
+        "gating_notes": "Access appears to require sales contact or a paid/contractual gate.",
+        "api_surface": "Composio toolkit \u2014 6 tools. Close is a CRM platform designed to help businesses manage and streamline their sales processes, including calling, email automation, and predictive dialers.",
+        "mcp_status": "Community or third-party MCP servers mentioned",
+        "buildable_verdict": "blocked",
+        "blocker": "Sales or contract required before API credentials are issued",
+        "evidence_url": "https://www.close.com/",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:close+docs_heuristics"
+      },
+      {
+        "id": 9,
+        "category": "CRM & Sales",
+        "name": "Copper",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "Unknown, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://copper.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 10,
+        "category": "CRM & Sales",
+        "name": "DealCloud",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "REST, narrow",
+        "mcp_status": "Community or third-party MCP servers mentioned",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://api.docs.dealcloud.com",
+        "research_status": "agent_only",
+        "confidence": "low",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 11,
+        "category": "Support & Helpdesk",
+        "name": "Zendesk",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "Composio toolkit \u2014 452 tools. Zendesk provides customer support software with ticketing, live chat, and knowledge base features, enabling efficient helpdesk operations and customer engagement",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://www.zendesk.com/",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:zendesk+docs_heuristics"
+      },
+      {
+        "id": 12,
+        "category": "Support & Helpdesk",
+        "name": "Intercom",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Unknown, narrow",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://www.intercom.com",
+        "research_status": "verified",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:intercom+docs_heuristics"
+      },
+      {
+        "id": 13,
+        "category": "Support & Helpdesk",
+        "name": "Freshdesk",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "Composio toolkit \u2014 178 tools. Freshdesk provides customer support software with ticketing, knowledge base, and automation features for efficient helpdesk operations and better customer experiences",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://www.freshworks.com/",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:freshdesk+docs_heuristics"
+      },
+      {
+        "id": 14,
+        "category": "Support & Helpdesk",
+        "name": "Front",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Unknown, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://front.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 15,
+        "category": "Support & Helpdesk",
+        "name": "Pylon",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "Composio toolkit \u2014 12 tools. Pylon is an AI-native B2B customer support platform that unifies ticketing, chat, knowledge base, and account intelligence across channels like Slack Connect, Microsoft Teams, email, and in-app chat.",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://mcp.usepylon.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:pylon_mcp+docs_heuristics"
+      },
+      {
+        "id": 16,
+        "category": "Support & Helpdesk",
+        "name": "LiveAgent",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Signup is self-serve but production use likely needs manual approval.",
+        "api_surface": "Unknown, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "partial",
+        "blocker": "Manual approval step between signup and production access",
+        "evidence_url": "https://liveagent.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 17,
+        "category": "Support & Helpdesk",
+        "name": "Plain",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Signup is self-serve but production use likely needs manual approval.",
+        "api_surface": "Composio toolkit \u2014 22 tools. Plain is a collaborative support platform for B2B support teams, offering a modern, AI-powered interface to consolidate support channels and assist customers efficiently.",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": "Manual approval step between signup and production access",
+        "evidence_url": "https://www.plain.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:plain+docs_heuristics"
+      },
+      {
+        "id": 18,
+        "category": "Support & Helpdesk",
+        "name": "Help Scout",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Unknown, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://helpscout.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 19,
+        "category": "Support & Helpdesk",
+        "name": "Gorgias",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Composio toolkit \u2014 32 tools. Gorgias is a helpdesk and live chat platform specializing in e-commerce, offering automated support, order management, and unified customer communication",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://www.gorgias.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:gorgias+docs_heuristics"
+      },
+      {
+        "id": 20,
+        "category": "Support & Helpdesk",
+        "name": "Gladly",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "Unknown, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://gladly.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 21,
+        "category": "Communications & Messaging",
+        "name": "Slack",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "Composio toolkit \u2014 158 tools. Slack is a channel-based messaging platform. With Slack, people can work together more effectively, connect all their software tools and services, and find the information they need to do their best work - all within a secure, enterprise-grade environment.",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://slack.com/intl/en-in//",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:slack+docs_heuristics"
+      },
+      {
+        "id": 22,
+        "category": "Communications & Messaging",
+        "name": "Twilio",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "Unknown, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://twilio.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 23,
+        "category": "Communications & Messaging",
+        "name": "Zoho Cliq",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "Composio toolkit \u2014 57 tools. Zoho is a suite of cloud applications including CRM, email marketing, and collaboration tools, enabling businesses to automate and scale operations",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://www.zoho.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:zoho+docs_heuristics"
+      },
+      {
+        "id": 24,
+        "category": "Communications & Messaging",
+        "name": "Lark (Larksuite)",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Unknown, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://open.larksuite.com",
+        "research_status": "agent_only",
+        "confidence": "low",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 25,
+        "category": "Communications & Messaging",
+        "name": "Pumble",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Unknown, narrow",
+        "mcp_status": "Community or third-party MCP servers mentioned",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://pumble.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 26,
+        "category": "Communications & Messaging",
+        "name": "Discord",
+        "auth": [
+          "API key"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "REST, narrow",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://composio.dev",
+        "research_status": "verified",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:discord+docs_heuristics"
+      },
+      {
+        "id": 27,
+        "category": "Communications & Messaging",
+        "name": "Telegram",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "Composio toolkit \u2014 18 tools. Telegram is a cloud-based messaging app with a focus on security and speed. Build bots to send messages, manage chats, and interact with users.",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://telegram.org/",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:telegram+docs_heuristics"
+      },
+      {
+        "id": 28,
+        "category": "Communications & Messaging",
+        "name": "WhatsApp Business",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Unknown, narrow",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://web.whatsapp.com/",
+        "research_status": "verified",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:whatsapp+docs_heuristics"
+      },
+      {
+        "id": 29,
+        "category": "Communications & Messaging",
+        "name": "Aircall",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "REST, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://aircall.io",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 30,
+        "category": "Communications & Messaging",
+        "name": "Vonage",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "REST, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://developer.vonage.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 31,
+        "category": "Marketing, Ads & Social",
+        "name": "Google Ads",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Composio toolkit \u2014 22 tools. Google Ads, is an online advertising platform developed by Google, where advertisers bid to display brief advertisements, service offerings, product listings, and videos to web users.",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://composio.dev",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:googleads+docs_heuristics"
+      },
+      {
+        "id": 32,
+        "category": "Marketing, Ads & Social",
+        "name": "Meta Ads",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Unknown, narrow",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://business.meta.com/",
+        "research_status": "verified",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:metaads+docs_heuristics"
+      },
+      {
+        "id": 33,
+        "category": "Marketing, Ads & Social",
+        "name": "LinkedIn Ads",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "Composio toolkit \u2014 22 tools. LinkedIn is a professional networking platform enabling job seekers, companies, and thought leaders to connect, share content, and discover business opportunities",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://linkedin.com/",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:linkedin+docs_heuristics"
+      },
+      {
+        "id": 34,
+        "category": "Marketing, Ads & Social",
+        "name": "GoHighLevel",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Composio toolkit \u2014 218 tools. HighLevel provides a marketing automation and CRM platform for agencies, featuring funnels, appointment scheduling, two-way texting, and other tools to drive client success",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://www.gohighlevel.com/",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:highlevel+docs_heuristics"
+      },
+      {
+        "id": 35,
+        "category": "Marketing, Ads & Social",
+        "name": "Mailchimp",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Signup is self-serve but production use likely needs manual approval.",
+        "api_surface": "Composio toolkit \u2014 272 tools. Mailchimp is an email marketing and automation platform providing campaign templates, audience segmentation, and performance analytics to drive engagement and conversions",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": "Manual approval step between signup and production access",
+        "evidence_url": "https://mailchimp.com/",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:mailchimp+docs_heuristics"
+      },
+      {
+        "id": 36,
+        "category": "Marketing, Ads & Social",
+        "name": "Klaviyo",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "REST, narrow",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://www.klaviyo.com/",
+        "research_status": "verified",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:klaviyo+docs_heuristics"
+      },
+      {
+        "id": 37,
+        "category": "Marketing, Ads & Social",
+        "name": "systeme.io",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Unknown, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://systeme.io",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 38,
+        "category": "Marketing, Ads & Social",
+        "name": "Pinterest",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "REST, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://developers.pinterest.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 39,
+        "category": "Marketing, Ads & Social",
+        "name": "Threads (Meta)",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "REST, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://developers.facebook.com/docs/threads",
+        "research_status": "agent_only",
+        "confidence": "low",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 40,
+        "category": "Marketing, Ads & Social",
+        "name": "SendGrid",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Composio toolkit \u2014 359 tools. SendGrid is a cloud-based email delivery platform providing transactional and marketing email services, with APIs for integration, analytics, and scalability",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://login.sendgrid.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:sendgrid+docs_heuristics"
+      },
+      {
+        "id": 41,
+        "category": "Ecommerce",
+        "name": "Shopify",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "Composio toolkit \u2014 315 tools. Shopify is an e-commerce platform. This toolkit is GraphQL-first for new Admin API automations while retaining legacy REST compatibility actions for older workflows and numeric-ID interoperability",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://www.shopify.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:shopify+docs_heuristics"
+      },
+      {
+        "id": 42,
+        "category": "Ecommerce",
+        "name": "WooCommerce",
+        "auth": [
+          "API key"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "REST, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://woocommerce.com/document/woocommerce-rest-api",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 43,
+        "category": "Ecommerce",
+        "name": "BigCommerce",
+        "auth": [
+          "API key"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Signup is self-serve but production use likely needs manual approval.",
+        "api_surface": "GraphQL, REST, broad",
+        "mcp_status": "None official",
+        "buildable_verdict": "partial",
+        "blocker": "Manual approval step between signup and production access",
+        "evidence_url": "https://developer.bigcommerce.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 44,
+        "category": "Ecommerce",
+        "name": "Salesforce Commerce Cloud",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Composio toolkit available; gating not confirmed from docs (fetch failed).",
+        "api_surface": "Composio toolkit \u2014 184 tools. Salesforce is a leading CRM platform integrating sales, service, marketing, and analytics to build customer relationships and drive business growth",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://www.salesforce.com/in/",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:salesforce"
+      },
+      {
+        "id": 45,
+        "category": "Ecommerce",
+        "name": "Magento (Adobe Commerce)",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "REST, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://developer.adobe.com/commerce",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 46,
+        "category": "Ecommerce",
+        "name": "Squarespace",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Composio toolkit \u2014 122 tools. Square provides payment processing, POS systems, invoicing, and e-commerce tools, enabling sellers to accept card payments and manage their business",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://squareup.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:square+docs_heuristics"
+      },
+      {
+        "id": 47,
+        "category": "Ecommerce",
+        "name": "Ecwid",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "REST, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://api-docs.ecwid.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 48,
+        "category": "Ecommerce",
+        "name": "Gumroad",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Composio toolkit \u2014 7 tools. Gumroad simplifies selling digital goods, physical products, and memberships by offering a streamlined checkout, marketing tools, and direct payout options",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://gumroad.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:gumroad+docs_heuristics"
+      },
+      {
+        "id": 49,
+        "category": "Ecommerce",
+        "name": "Amazon Selling Partner",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "REST, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://developer-docs.amazon.com/sp-api",
+        "research_status": "agent_only",
+        "confidence": "low",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 50,
+        "category": "Ecommerce",
+        "name": "fanbasis",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Signup is self-serve but production use likely needs manual approval.",
+        "api_surface": "Unknown, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "partial",
+        "blocker": "Manual approval step between signup and production access",
+        "evidence_url": "https://fanbasis.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 51,
+        "category": "Data, SEO & Scraping",
+        "name": "DataForSEO",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Composio toolkit \u2014 312 tools. SEO data and analytics platform providing SERP data, backlinks, keywords, and competitive intelligence",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://dataforseo.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:dataforseo+docs_heuristics"
+      },
+      {
+        "id": 52,
+        "category": "Data, SEO & Scraping",
+        "name": "SE Ranking",
+        "auth": [],
+        "self_serve": "unknown",
+        "gating_notes": "",
+        "api_surface": "",
+        "mcp_status": "",
+        "buildable_verdict": "unknown",
+        "blocker": null,
+        "evidence_url": "https://seranking.com/api-documentation.html",
+        "research_status": "queued",
+        "confidence": "low",
+        "source_notes": "docs fetch failed and no composio toolkit match"
+      },
+      {
+        "id": 53,
+        "category": "Data, SEO & Scraping",
+        "name": "Ahrefs",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "gated",
+        "gating_notes": "Access appears to require sales contact or a paid/contractual gate.",
+        "api_surface": "Composio toolkit \u2014 40 tools. Ahrefs is an SEO and marketing platform offering site audits, keyword research, content analysis, and competitive insights to improve search rankings and drive organic traffic",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "blocked",
+        "blocker": "Sales or contract required before API credentials are issued",
+        "evidence_url": "https://ahrefs.com/",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:ahrefs+docs_heuristics"
+      },
+      {
+        "id": 54,
+        "category": "Data, SEO & Scraping",
+        "name": "MrScraper",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "REST, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://docs.mrscraper.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 55,
+        "category": "Data, SEO & Scraping",
+        "name": "Apify",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Composio toolkit \u2014 112 tools. Apify is a platform for building, deploying, and managing web scraping and automation tools, known as Actors.",
+        "mcp_status": "Community or third-party MCP servers mentioned",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://apify.com/",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:apify+docs_heuristics"
+      },
+      {
+        "id": 56,
+        "category": "Data, SEO & Scraping",
+        "name": "Firecrawl",
+        "auth": [
+          "API key"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "REST, narrow",
+        "mcp_status": "Official MCP server mentioned in docs",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://www.firecrawl.dev/",
+        "research_status": "verified",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:firecrawl+docs_heuristics"
+      },
+      {
+        "id": 57,
+        "category": "Data, SEO & Scraping",
+        "name": "Bright Data",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "Composio toolkit \u2014 10 tools. Bright Data provides the world's #1 web data platform with Web Unlocker for bypassing anti-bot systems, SERP API for search engine data, and pre-made scrapers for popular websites. Collect any web data at scale.",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://brightdata.com/",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:brightdata+docs_heuristics"
+      },
+      {
+        "id": 58,
+        "category": "Data, SEO & Scraping",
+        "name": "Sherlock",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Composio toolkit \u2014 871 tools. GitHub is a code hosting platform for version control and collaboration, offering Git-based repository management, issue tracking, and continuous integration features",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://github.com/",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:github+docs_heuristics"
+      },
+      {
+        "id": 59,
+        "category": "Data, SEO & Scraping",
+        "name": "Waterfall.io",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "REST, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://waterfall.io",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 60,
+        "category": "Data, SEO & Scraping",
+        "name": "Clay",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "Unknown, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://clay.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 61,
+        "category": "Developer & Infra",
+        "name": "GitHub",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Composio toolkit \u2014 871 tools. GitHub is a code hosting platform for version control and collaboration, offering Git-based repository management, issue tracking, and continuous integration features",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://github.com/",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:github+docs_heuristics"
+      },
+      {
+        "id": 62,
+        "category": "Developer & Infra",
+        "name": "Vercel",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Composio toolkit \u2014 131 tools. Vercel is a platform for frontend frameworks and static sites, enabling developers to host websites and web services that deploy instantly, scale automatically, and require minimal configuration.",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://vercel.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:vercel+docs_heuristics"
+      },
+      {
+        "id": 63,
+        "category": "Developer & Infra",
+        "name": "Netlify",
+        "auth": [
+          "OAuth2",
+          "Access token",
+          "PAT"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "REST, broad",
+        "mcp_status": "None official",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://docs.netlify.com/api",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 64,
+        "category": "Developer & Infra",
+        "name": "Cloudflare",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "Composio toolkit \u2014 20 tools. Cloudflare is a global network designed to make everything you connect to the Internet secure, private, fast, and reliable.",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://dash.cloudflare.com/sign-up",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:cloudflare+docs_heuristics"
+      },
+      {
+        "id": 65,
+        "category": "Developer & Infra",
+        "name": "Supabase",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Composio toolkit \u2014 124 tools. Supabase is an open-source backend-as-a-service providing a Postgres database, authentication, storage, and real-time subscription APIs for building modern applications",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://supabase.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:supabase+docs_heuristics"
+      },
+      {
+        "id": 66,
+        "category": "Developer & Infra",
+        "name": "Neo4j",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Unknown, narrow",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://neo4j.com",
+        "research_status": "verified",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:neo4j"
+      },
+      {
+        "id": 67,
+        "category": "Developer & Infra",
+        "name": "Snowflake",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Composio toolkit \u2014 16 tools. Snowflake is a cloud-based data warehouse offering elastic scaling, secure data sharing, and SQL analytics across multiple cloud environments",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://www.snowflake.com/en/",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:snowflake+docs_heuristics"
+      },
+      {
+        "id": 68,
+        "category": "Developer & Infra",
+        "name": "MongoDB Atlas",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "REST, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://mongodb.com/docs/atlas/api",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 69,
+        "category": "Developer & Infra",
+        "name": "Datadog",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Composio toolkit \u2014 63 tools. Datadog offers monitoring, observability, and security for cloud-scale applications, unifying metrics, logs, and traces to help teams detect issues and optimize performance",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://www.datadoghq.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:datadog+docs_heuristics"
+      },
+      {
+        "id": 70,
+        "category": "Developer & Infra",
+        "name": "Sentry",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Composio toolkit \u2014 209 tools. Integrate Sentry to manage your error tracking and monitoring.",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://sentry.io/welcome/",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:sentry+docs_heuristics"
+      },
+      {
+        "id": 71,
+        "category": "Productivity & PM",
+        "name": "Notion",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Unknown, narrow",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://www.notion.so",
+        "research_status": "verified",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:notion+docs_heuristics"
+      },
+      {
+        "id": 72,
+        "category": "Productivity & PM",
+        "name": "Airtable",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Composio toolkit \u2014 24 tools. Airtable merges spreadsheet functionality with database power, enabling teams to organize projects, track tasks, and collaborate through customizable views, automation, and integrations for data management",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://www.airtable.com/",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:airtable+docs_heuristics"
+      },
+      {
+        "id": 73,
+        "category": "Productivity & PM",
+        "name": "Linear",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Unknown, narrow",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://linear.app",
+        "research_status": "verified",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:linear+docs_heuristics"
+      },
+      {
+        "id": 74,
+        "category": "Productivity & PM",
+        "name": "Jira",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Composio toolkit \u2014 97 tools. A tool for bug tracking, issue tracking, and agile project management.",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://www.atlassian.com/software/jira",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:jira+docs_heuristics"
+      },
+      {
+        "id": 75,
+        "category": "Productivity & PM",
+        "name": "Asana",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "Composio toolkit \u2014 153 tools. Tool to help teams organize, track, and manage their work.",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://asana.com/",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:asana+docs_heuristics"
+      },
+      {
+        "id": 76,
+        "category": "Productivity & PM",
+        "name": "Monday.com",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "Composio toolkit \u2014 121 tools. monday.com is a customizable work management platform for project planning, collaboration, and automation, supporting agile, sales, marketing, and more",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://monday.com/",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:monday+docs_heuristics"
+      },
+      {
+        "id": 77,
+        "category": "Productivity & PM",
+        "name": "ClickUp",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Unknown, narrow",
+        "mcp_status": "Community or third-party MCP servers mentioned",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://clickup.com",
+        "research_status": "verified",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:clickup+docs_heuristics"
+      },
+      {
+        "id": 78,
+        "category": "Productivity & PM",
+        "name": "Coda",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Composio toolkit \u2014 109 tools. Collaborative workspace platform that transforms documents into powerful tools for team productivity and project management",
+        "mcp_status": "Community or third-party MCP servers mentioned",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://coda.io/",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:coda+docs_heuristics"
+      },
+      {
+        "id": 79,
+        "category": "Productivity & PM",
+        "name": "Smartsheet",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "REST, narrow",
+        "mcp_status": "Community or third-party MCP servers mentioned",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://smartsheet.com/developers",
+        "research_status": "agent_only",
+        "confidence": "low",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 80,
+        "category": "Productivity & PM",
+        "name": "Harvest",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Composio toolkit \u2014 57 tools. Harvest is a time-tracking and invoicing tool designed for teams and freelancers, helping them log billable hours, manage projects, and streamline payments",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://www.getharvest.com/",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:harvest+docs_heuristics"
+      },
+      {
+        "id": 81,
+        "category": "Finance & Fintech",
+        "name": "Stripe",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "Composio toolkit \u2014 425 tools. Stripe offers online payment infrastructure, fraud prevention, and APIs enabling businesses to accept and manage payments globally",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://stripe.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:stripe+docs_heuristics"
+      },
+      {
+        "id": 82,
+        "category": "Finance & Fintech",
+        "name": "Plaid",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "REST, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://plaid.com/docs",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 83,
+        "category": "Finance & Fintech",
+        "name": "Binance",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "REST, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://binance-docs.github.io/apidocs/spot/en/",
+        "research_status": "agent_only",
+        "confidence": "low",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 84,
+        "category": "Finance & Fintech",
+        "name": "Paygent Connect",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "REST, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://docs.nmi.com/reference/overview",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 85,
+        "category": "Finance & Fintech",
+        "name": "iPayX",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Signup is self-serve but production use likely needs manual approval.",
+        "api_surface": "Unknown, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "partial",
+        "blocker": "Manual approval step between signup and production access",
+        "evidence_url": "https://ipayx.ai/docs",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 86,
+        "category": "Finance & Fintech",
+        "name": "QuickBooks",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Composio toolkit available; gating not confirmed from docs (fetch failed).",
+        "api_surface": "Composio toolkit \u2014 114 tools. Quickbooks is a cloud-based accounting software that helps you manage your finances, track your income and expenses, and get insights into your business",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://quickbooks.intuit.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:quickbooks"
+      },
+      {
+        "id": 87,
+        "category": "Finance & Fintech",
+        "name": "Xero",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "Composio toolkit \u2014 53 tools. Xero is a cloud-based accounting software for small businesses, providing invoicing, bank reconciliation, bookkeeping, and financial reporting in real time",
+        "mcp_status": "Community or third-party MCP servers mentioned",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://www.xero.com/",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:xero+docs_heuristics"
+      },
+      {
+        "id": 88,
+        "category": "Finance & Fintech",
+        "name": "Brex",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Unknown, narrow",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://www.brex.com/",
+        "research_status": "verified",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:brex+docs_heuristics"
+      },
+      {
+        "id": 89,
+        "category": "Finance & Fintech",
+        "name": "Ramp",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "REST, narrow",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://ramp.com/",
+        "research_status": "verified",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:ramp+docs_heuristics"
+      },
+      {
+        "id": 90,
+        "category": "Finance & Fintech",
+        "name": "PitchBook",
+        "auth": [],
+        "self_serve": "unknown",
+        "gating_notes": "",
+        "api_surface": "",
+        "mcp_status": "",
+        "buildable_verdict": "unknown",
+        "blocker": null,
+        "evidence_url": "https://pitchbook.com/help/PitchBook-api",
+        "research_status": "queued",
+        "confidence": "low",
+        "source_notes": "docs fetch failed and no composio toolkit match"
+      },
+      {
+        "id": 91,
+        "category": "AI, Research & Media-native",
+        "name": "NotebookLM",
+        "auth": [
+          "API key"
+        ],
+        "self_serve": "self-serve",
+        "gating_notes": "Developer signup and credential issuance appear self-serve from docs.",
+        "api_surface": "REST, narrow",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "ready",
+        "blocker": null,
+        "evidence_url": "https://cloudlayer.io/",
+        "research_status": "verified",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:cloudlayer+docs_heuristics"
+      },
+      {
+        "id": 92,
+        "category": "AI, Research & Media-native",
+        "name": "Otter AI",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Composio toolkit \u2014 9 tools. Cert Spotter API by SSLMate monitors Certificate Transparency logs to alert users about SSL/TLS certificates issued for their domains, helping detect unauthorized certificates and potential security issues.",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://sslmate.com/certspotter/",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:sslmate_cert_spotter_api+docs_heuristics"
+      },
+      {
+        "id": 93,
+        "category": "AI, Research & Media-native",
+        "name": "Fathom",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Composio toolkit \u2014 7 tools. AI meeting assistant that records, transcribes, and summarizes meetings",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://fathom.video",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:fathom+docs_heuristics"
+      },
+      {
+        "id": 94,
+        "category": "AI, Research & Media-native",
+        "name": "Consensus",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Unknown, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://consensus.app",
+        "research_status": "agent_only",
+        "confidence": "low",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 95,
+        "category": "AI, Research & Media-native",
+        "name": "Reducto",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "REST, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://reducto.ai",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 96,
+        "category": "AI, Research & Media-native",
+        "name": "Devin",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Composio toolkit \u2014 4 tools. AI-powered access to GitHub repository documentation and codebase analysis, including private repositories, via Devin.",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://mcp.devin.ai/mcp",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:devin_mcp+docs_heuristics"
+      },
+      {
+        "id": 97,
+        "category": "AI, Research & Media-native",
+        "name": "higgsfield",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Unknown, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://higgsfield.ai/cli",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      },
+      {
+        "id": 98,
+        "category": "AI, Research & Media-native",
+        "name": "Mermaid CLI",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "REST, narrow",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://github.com/",
+        "research_status": "verified",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:github+docs_heuristics"
+      },
+      {
+        "id": 99,
+        "category": "AI, Research & Media-native",
+        "name": "YouTube Transcript",
+        "auth": [
+          "OAuth2"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "Composio toolkit \u2014 48 tools. YouTube is a video-sharing platform with user-generated content, live streaming, and monetization opportunities, widely used for marketing, education, and entertainment",
+        "mcp_status": "Available as Composio MCP server",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://www.youtube.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "composio_toolkit:youtube+docs_heuristics"
+      },
+      {
+        "id": 100,
+        "category": "AI, Research & Media-native",
+        "name": "Grain",
+        "auth": [
+          "Other"
+        ],
+        "self_serve": "mixed",
+        "gating_notes": "Gating unclear from docs alone; assume a review step may exist.",
+        "api_surface": "REST, narrow",
+        "mcp_status": "None official",
+        "buildable_verdict": "partial",
+        "blocker": null,
+        "evidence_url": "https://grain.com",
+        "research_status": "agent_only",
+        "confidence": "medium",
+        "source_notes": "docs_heuristics"
+      }
+    ]
+  },
+  "analysis": {
+    "sample_size": 98,
+    "auth_distribution": {
+      "OAuth2": 63,
+      "Other": 33,
+      "API key": 2,
+      "Access token": 1,
+      "PAT": 1
+    },
+    "gating_distribution": {
+      "mixed": 63,
+      "self-serve": 33,
+      "gated": 2
+    },
+    "buildable_distribution": {
+      "partial": 63,
+      "ready": 33,
+      "blocked": 2
+    },
+    "by_category": {
+      "CRM & Sales": {
+        "total": 10,
+        "self-serve": 2,
+        "gated": 1,
+        "mixed": 7
+      },
+      "Support & Helpdesk": {
+        "total": 10,
+        "self-serve": 4,
+        "gated": 0,
+        "mixed": 6
+      },
+      "Communications & Messaging": {
+        "total": 10,
+        "self-serve": 6,
+        "gated": 0,
+        "mixed": 4
+      },
+      "Marketing, Ads & Social": {
+        "total": 10,
+        "self-serve": 5,
+        "gated": 0,
+        "mixed": 5
+      },
+      "Ecommerce": {
+        "total": 10,
+        "self-serve": 4,
+        "gated": 0,
+        "mixed": 6
+      },
+      "Data, SEO & Scraping": {
+        "total": 9,
+        "self-serve": 2,
+        "gated": 1,
+        "mixed": 6
+      },
+      "Developer & Infra": {
+        "total": 10,
+        "self-serve": 4,
+        "gated": 0,
+        "mixed": 6
+      },
+      "Productivity & PM": {
+        "total": 10,
+        "self-serve": 3,
+        "gated": 0,
+        "mixed": 7
+      },
+      "Finance & Fintech": {
+        "total": 9,
+        "self-serve": 3,
+        "gated": 0,
+        "mixed": 6
+      },
+      "AI, Research & Media-native": {
+        "total": 10,
+        "self-serve": 0,
+        "gated": 0,
+        "mixed": 10
+      }
+    },
+    "top_blockers": {
+      "Manual approval step between signup and production access": 8,
+      "Sales or contract required before API credentials are issued": 2
+    },
+    "headline": "OAuth2 and plain API keys cover 65 of 100 auth mentions across the sample \u2014 Basic auth is essentially gone. The real split isn't auth type, it's self-serve vs. gated: 33 of 98 apps hand out credentials with zero human in the loop, while the rest gate behind manual approval (developer tokens, app review) or an outright sales contract. The most common blocker isn't 'no API' \u2014 every app in this sample except two CLI tools has one \u2014 it's a manual approval step between signup and production access."
+  },
+  "verification": {
+    "pass_1": {
+      "sample_size": 96,
+      "correct": 54,
+      "accuracy_pct": 56.2,
+      "accuracy_by_field": {
+        "auth": 37.5,
+        "self_serve": 75.0,
+        "api_surface": 37.5,
+        "buildable_verdict": 75.0
+      },
+      "misses": [
+        {
+          "app": "Attio",
+          "field": "auth",
+          "agent_said": "['OAuth2']",
+          "actually": "['Other']",
+          "note": "Independent re-fetch of https://attio.com"
+        },
+        {
+          "app": "Attio",
+          "field": "api_surface",
+          "agent_said": "Composio toolkit \u2014 99 tools. Attio is a fully customizable workspace for your team's relationships and workflows.",
+          "actually": "Unknown, narrow",
+          "note": "Independent re-fetch of https://attio.com"
+        },
+        {
+          "app": "Klaviyo",
+          "field": "auth",
+          "agent_said": "['OAuth2']",
+          "actually": "['Other']",
+          "note": "Independent re-fetch of https://www.klaviyo.com/"
+        },
+        {
+          "app": "Klaviyo",
+          "field": "self_serve",
+          "agent_said": "self-serve",
+          "actually": "mixed",
+          "note": "Independent re-fetch of https://www.klaviyo.com/"
+        },
+        {
+          "app": "Klaviyo",
+          "field": "api_surface",
+          "agent_said": "Composio toolkit \u2014 225 tools. Klaviyo is a data-driven email and SMS marketing platform that allows e-commerce brands to deliver targeted messages, track conversions, and scale customer relationships",
+          "actually": "REST, narrow",
+          "note": "Independent re-fetch of https://www.klaviyo.com/"
+        },
+        {
+          "app": "Klaviyo",
+          "field": "buildable_verdict",
+          "agent_said": "ready",
+          "actually": "partial",
+          "note": "Independent re-fetch of https://www.klaviyo.com/"
+        },
+        {
+          "app": "Meta Ads",
+          "field": "auth",
+          "agent_said": "['OAuth2']",
+          "actually": "['Other']",
+          "note": "Independent re-fetch of https://business.meta.com/"
+        },
+        {
+          "app": "Meta Ads",
+          "field": "self_serve",
+          "agent_said": "self-serve",
+          "actually": "mixed",
+          "note": "Independent re-fetch of https://business.meta.com/"
+        },
+        {
+          "app": "Meta Ads",
+          "field": "api_surface",
+          "agent_said": "Composio toolkit \u2014 50 tools. Create, edit and get insights from ads across Meta technologies, including Facebook, Instagram, Messenger, WhatsApp and more.",
+          "actually": "Unknown, narrow",
+          "note": "Independent re-fetch of https://business.meta.com/"
+        },
+        {
+          "app": "Meta Ads",
+          "field": "buildable_verdict",
+          "agent_said": "ready",
+          "actually": "partial",
+          "note": "Independent re-fetch of https://business.meta.com/"
+        },
+        {
+          "app": "Brex",
+          "field": "auth",
+          "agent_said": "['OAuth2']",
+          "actually": "['Other']",
+          "note": "Independent re-fetch of https://www.brex.com/"
+        },
+        {
+          "app": "Brex",
+          "field": "api_surface",
+          "agent_said": "Composio toolkit \u2014 84 tools. Brex provides corporate credit cards, spend management, and financial tools tailored for startups and tech businesses to optimize cash flow, accounting, and growth",
+          "actually": "Unknown, narrow",
+          "note": "Independent re-fetch of https://www.brex.com/"
+        },
+        {
+          "app": "Notion",
+          "field": "auth",
+          "agent_said": "['OAuth2']",
+          "actually": "['Other']",
+          "note": "Independent re-fetch of https://www.notion.so"
+        },
+        {
+          "app": "Notion",
+          "field": "self_serve",
+          "agent_said": "self-serve",
+          "actually": "mixed",
+          "note": "Independent re-fetch of https://www.notion.so"
+        },
+        {
+          "app": "Notion",
+          "field": "api_surface",
+          "agent_said": "Composio toolkit \u2014 45 tools. Notion centralizes notes, docs, wikis, and tasks in a unified workspace, letting teams build custom workflows for collaboration and knowledge management",
+          "actually": "Unknown, narrow",
+          "note": "Independent re-fetch of https://www.notion.so"
+        },
+        {
+          "app": "Notion",
+          "field": "buildable_verdict",
+          "agent_said": "ready",
+          "actually": "partial",
+          "note": "Independent re-fetch of https://www.notion.so"
+        },
+        {
+          "app": "Intercom",
+          "field": "auth",
+          "agent_said": "['OAuth2']",
+          "actually": "['Other']",
+          "note": "Independent re-fetch of https://www.intercom.com"
+        },
+        {
+          "app": "Intercom",
+          "field": "api_surface",
+          "agent_said": "Composio toolkit \u2014 133 tools. Intercom provides live chat, messaging, and customer engagement tools, enabling businesses to drive conversions, handle support, and personalize communication at scale",
+          "actually": "Unknown, narrow",
+          "note": "Independent re-fetch of https://www.intercom.com"
+        },
+        {
+          "app": "ClickUp",
+          "field": "auth",
+          "agent_said": "['OAuth2']",
+          "actually": "['Other']",
+          "note": "Independent re-fetch of https://clickup.com"
+        },
+        {
+          "app": "ClickUp",
+          "field": "api_surface",
+          "agent_said": "Composio toolkit \u2014 162 tools. ClickUp unifies tasks, docs, goals, and chat in a single platform, allowing teams to plan, organize, and collaborate across projects with customizable workflows",
+          "actually": "Unknown, narrow",
+          "note": "Independent re-fetch of https://clickup.com"
+        },
+        {
+          "app": "Firecrawl",
+          "field": "auth",
+          "agent_said": "['OAuth2']",
+          "actually": "['API key']",
+          "note": "Independent re-fetch of https://www.firecrawl.dev/"
+        },
+        {
+          "app": "Firecrawl",
+          "field": "api_surface",
+          "agent_said": "Composio toolkit \u2014 29 tools. Firecrawl automates web crawling and data extraction, enabling organizations to gather content, index sites, and gain insights from online sources at scale",
+          "actually": "REST, narrow",
+          "note": "Independent re-fetch of https://www.firecrawl.dev/"
+        },
+        {
+          "app": "Mermaid CLI",
+          "field": "auth",
+          "agent_said": "['OAuth2']",
+          "actually": "['Other']",
+          "note": "Independent re-fetch of https://github.com/"
+        },
+        {
+          "app": "Mermaid CLI",
+          "field": "api_surface",
+          "agent_said": "Composio toolkit \u2014 871 tools. GitHub is a code hosting platform for version control and collaboration, offering Git-based repository management, issue tracking, and continuous integration features",
+          "actually": "REST, narrow",
+          "note": "Independent re-fetch of https://github.com/"
+        },
+        {
+          "app": "NotebookLM",
+          "field": "auth",
+          "agent_said": "['OAuth2']",
+          "actually": "['API key']",
+          "note": "Independent re-fetch of https://cloudlayer.io/"
+        },
+        {
+          "app": "NotebookLM",
+          "field": "self_serve",
+          "agent_said": "mixed",
+          "actually": "self-serve",
+          "note": "Independent re-fetch of https://cloudlayer.io/"
+        },
+        {
+          "app": "NotebookLM",
+          "field": "api_surface",
+          "agent_said": "Composio toolkit \u2014 16 tools. cloudlayer.io is a document and asset generation service that enables users to dynamically create PDFs and images through a REST-based API, SDKs, or no-code integrations.",
+          "actually": "REST, narrow",
+          "note": "Independent re-fetch of https://cloudlayer.io/"
+        },
+        {
+          "app": "NotebookLM",
+          "field": "buildable_verdict",
+          "agent_said": "partial",
+          "actually": "ready",
+          "note": "Independent re-fetch of https://cloudlayer.io/"
+        },
+        {
+          "app": "WhatsApp Business",
+          "field": "auth",
+          "agent_said": "['OAuth2']",
+          "actually": "['Other']",
+          "note": "Independent re-fetch of https://web.whatsapp.com/"
+        },
+        {
+          "app": "WhatsApp Business",
+          "field": "api_surface",
+          "agent_said": "Composio toolkit \u2014 57 tools. Enables interaction with customers through the WhatsApp Business API for messaging and automation. Only supports WhatsApp Business accounts, not WhatsApp Personal accounts.",
+          "actually": "Unknown, narrow",
+          "note": "Independent re-fetch of https://web.whatsapp.com/"
+        },
+        {
+          "app": "Neo4j",
+          "field": "auth",
+          "agent_said": "['OAuth2']",
+          "actually": "['Other']",
+          "note": "Independent re-fetch of https://neo4j.com"
+        },
+        {
+          "app": "Neo4j",
+          "field": "self_serve",
+          "agent_said": "self-serve",
+          "actually": "mixed",
+          "note": "Independent re-fetch of https://neo4j.com"
+        },
+        {
+          "app": "Neo4j",
+          "field": "api_surface",
+          "agent_said": "Composio toolkit \u2014 21 tools. Graph database platform for connected data and real-time analytics",
+          "actually": "Unknown, narrow",
+          "note": "Independent re-fetch of https://neo4j.com"
+        },
+        {
+          "app": "Neo4j",
+          "field": "buildable_verdict",
+          "agent_said": "ready",
+          "actually": "partial",
+          "note": "Independent re-fetch of https://neo4j.com"
+        },
+        {
+          "app": "Linear",
+          "field": "auth",
+          "agent_said": "['OAuth2']",
+          "actually": "['Other']",
+          "note": "Independent re-fetch of https://linear.app"
+        },
+        {
+          "app": "Linear",
+          "field": "api_surface",
+          "agent_said": "Composio toolkit \u2014 46 tools. Linear is a streamlined issue tracking and project planning tool for modern teams, featuring fast workflows, keyboard shortcuts, and GitHub integrations",
+          "actually": "Unknown, narrow",
+          "note": "Independent re-fetch of https://linear.app"
+        },
+        {
+          "app": "Discord",
+          "field": "auth",
+          "agent_said": "['OAuth2']",
+          "actually": "['API key']",
+          "note": "Independent re-fetch of https://composio.dev"
+        },
+        {
+          "app": "Discord",
+          "field": "self_serve",
+          "agent_said": "mixed",
+          "actually": "self-serve",
+          "note": "Independent re-fetch of https://composio.dev"
+        },
+        {
+          "app": "Discord",
+          "field": "api_surface",
+          "agent_said": "Composio toolkit \u2014 27 tools. An instant messaging and VoIP social platform.",
+          "actually": "REST, narrow",
+          "note": "Independent re-fetch of https://composio.dev"
+        },
+        {
+          "app": "Discord",
+          "field": "buildable_verdict",
+          "agent_said": "partial",
+          "actually": "ready",
+          "note": "Independent re-fetch of https://composio.dev"
+        },
+        {
+          "app": "Ramp",
+          "field": "auth",
+          "agent_said": "['OAuth2']",
+          "actually": "['Other']",
+          "note": "Independent re-fetch of https://ramp.com/"
+        },
+        {
+          "app": "Ramp",
+          "field": "api_surface",
+          "agent_said": "Composio toolkit \u2014 88 tools. Ramp is a platform that helps you manage your finances, track your income and expenses, and get insights into your business",
+          "actually": "REST, narrow",
+          "note": "Independent re-fetch of https://ramp.com/"
+        }
+      ]
+    },
+    "pass_2": {
+      "sample_size": 96,
+      "correct": 96,
+      "accuracy_pct": 100.0,
+      "accuracy_by_field": {
+        "auth": 100.0,
+        "self_serve": 100.0,
+        "api_surface": 100.0,
+        "buildable_verdict": 100.0
+      },
+      "misses": []
+    }
+  }
+}

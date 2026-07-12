@@ -1,0 +1,321 @@
+{
+  "pass_1": {
+    "sample_size": 96,
+    "correct": 54,
+    "accuracy_pct": 56.2,
+    "accuracy_by_field": {
+      "auth": 37.5,
+      "self_serve": 75.0,
+      "api_surface": 37.5,
+      "buildable_verdict": 75.0
+    },
+    "misses": [
+      {
+        "app": "Attio",
+        "field": "auth",
+        "agent_said": "['OAuth2']",
+        "actually": "['Other']",
+        "note": "Independent re-fetch of https://attio.com"
+      },
+      {
+        "app": "Attio",
+        "field": "api_surface",
+        "agent_said": "Composio toolkit \u2014 99 tools. Attio is a fully customizable workspace for your team's relationships and workflows.",
+        "actually": "Unknown, narrow",
+        "note": "Independent re-fetch of https://attio.com"
+      },
+      {
+        "app": "Klaviyo",
+        "field": "auth",
+        "agent_said": "['OAuth2']",
+        "actually": "['Other']",
+        "note": "Independent re-fetch of https://www.klaviyo.com/"
+      },
+      {
+        "app": "Klaviyo",
+        "field": "self_serve",
+        "agent_said": "self-serve",
+        "actually": "mixed",
+        "note": "Independent re-fetch of https://www.klaviyo.com/"
+      },
+      {
+        "app": "Klaviyo",
+        "field": "api_surface",
+        "agent_said": "Composio toolkit \u2014 225 tools. Klaviyo is a data-driven email and SMS marketing platform that allows e-commerce brands to deliver targeted messages, track conversions, and scale customer relationships",
+        "actually": "REST, narrow",
+        "note": "Independent re-fetch of https://www.klaviyo.com/"
+      },
+      {
+        "app": "Klaviyo",
+        "field": "buildable_verdict",
+        "agent_said": "ready",
+        "actually": "partial",
+        "note": "Independent re-fetch of https://www.klaviyo.com/"
+      },
+      {
+        "app": "Meta Ads",
+        "field": "auth",
+        "agent_said": "['OAuth2']",
+        "actually": "['Other']",
+        "note": "Independent re-fetch of https://business.meta.com/"
+      },
+      {
+        "app": "Meta Ads",
+        "field": "self_serve",
+        "agent_said": "self-serve",
+        "actually": "mixed",
+        "note": "Independent re-fetch of https://business.meta.com/"
+      },
+      {
+        "app": "Meta Ads",
+        "field": "api_surface",
+        "agent_said": "Composio toolkit \u2014 50 tools. Create, edit and get insights from ads across Meta technologies, including Facebook, Instagram, Messenger, WhatsApp and more.",
+        "actually": "Unknown, narrow",
+        "note": "Independent re-fetch of https://business.meta.com/"
+      },
+      {
+        "app": "Meta Ads",
+        "field": "buildable_verdict",
+        "agent_said": "ready",
+        "actually": "partial",
+        "note": "Independent re-fetch of https://business.meta.com/"
+      },
+      {
+        "app": "Brex",
+        "field": "auth",
+        "agent_said": "['OAuth2']",
+        "actually": "['Other']",
+        "note": "Independent re-fetch of https://www.brex.com/"
+      },
+      {
+        "app": "Brex",
+        "field": "api_surface",
+        "agent_said": "Composio toolkit \u2014 84 tools. Brex provides corporate credit cards, spend management, and financial tools tailored for startups and tech businesses to optimize cash flow, accounting, and growth",
+        "actually": "Unknown, narrow",
+        "note": "Independent re-fetch of https://www.brex.com/"
+      },
+      {
+        "app": "Notion",
+        "field": "auth",
+        "agent_said": "['OAuth2']",
+        "actually": "['Other']",
+        "note": "Independent re-fetch of https://www.notion.so"
+      },
+      {
+        "app": "Notion",
+        "field": "self_serve",
+        "agent_said": "self-serve",
+        "actually": "mixed",
+        "note": "Independent re-fetch of https://www.notion.so"
+      },
+      {
+        "app": "Notion",
+        "field": "api_surface",
+        "agent_said": "Composio toolkit \u2014 45 tools. Notion centralizes notes, docs, wikis, and tasks in a unified workspace, letting teams build custom workflows for collaboration and knowledge management",
+        "actually": "Unknown, narrow",
+        "note": "Independent re-fetch of https://www.notion.so"
+      },
+      {
+        "app": "Notion",
+        "field": "buildable_verdict",
+        "agent_said": "ready",
+        "actually": "partial",
+        "note": "Independent re-fetch of https://www.notion.so"
+      },
+      {
+        "app": "Intercom",
+        "field": "auth",
+        "agent_said": "['OAuth2']",
+        "actually": "['Other']",
+        "note": "Independent re-fetch of https://www.intercom.com"
+      },
+      {
+        "app": "Intercom",
+        "field": "api_surface",
+        "agent_said": "Composio toolkit \u2014 133 tools. Intercom provides live chat, messaging, and customer engagement tools, enabling businesses to drive conversions, handle support, and personalize communication at scale",
+        "actually": "Unknown, narrow",
+        "note": "Independent re-fetch of https://www.intercom.com"
+      },
+      {
+        "app": "ClickUp",
+        "field": "auth",
+        "agent_said": "['OAuth2']",
+        "actually": "['Other']",
+        "note": "Independent re-fetch of https://clickup.com"
+      },
+      {
+        "app": "ClickUp",
+        "field": "api_surface",
+        "agent_said": "Composio toolkit \u2014 162 tools. ClickUp unifies tasks, docs, goals, and chat in a single platform, allowing teams to plan, organize, and collaborate across projects with customizable workflows",
+        "actually": "Unknown, narrow",
+        "note": "Independent re-fetch of https://clickup.com"
+      },
+      {
+        "app": "Firecrawl",
+        "field": "auth",
+        "agent_said": "['OAuth2']",
+        "actually": "['API key']",
+        "note": "Independent re-fetch of https://www.firecrawl.dev/"
+      },
+      {
+        "app": "Firecrawl",
+        "field": "api_surface",
+        "agent_said": "Composio toolkit \u2014 29 tools. Firecrawl automates web crawling and data extraction, enabling organizations to gather content, index sites, and gain insights from online sources at scale",
+        "actually": "REST, narrow",
+        "note": "Independent re-fetch of https://www.firecrawl.dev/"
+      },
+      {
+        "app": "Mermaid CLI",
+        "field": "auth",
+        "agent_said": "['OAuth2']",
+        "actually": "['Other']",
+        "note": "Independent re-fetch of https://github.com/"
+      },
+      {
+        "app": "Mermaid CLI",
+        "field": "api_surface",
+        "agent_said": "Composio toolkit \u2014 871 tools. GitHub is a code hosting platform for version control and collaboration, offering Git-based repository management, issue tracking, and continuous integration features",
+        "actually": "REST, narrow",
+        "note": "Independent re-fetch of https://github.com/"
+      },
+      {
+        "app": "NotebookLM",
+        "field": "auth",
+        "agent_said": "['OAuth2']",
+        "actually": "['API key']",
+        "note": "Independent re-fetch of https://cloudlayer.io/"
+      },
+      {
+        "app": "NotebookLM",
+        "field": "self_serve",
+        "agent_said": "mixed",
+        "actually": "self-serve",
+        "note": "Independent re-fetch of https://cloudlayer.io/"
+      },
+      {
+        "app": "NotebookLM",
+        "field": "api_surface",
+        "agent_said": "Composio toolkit \u2014 16 tools. cloudlayer.io is a document and asset generation service that enables users to dynamically create PDFs and images through a REST-based API, SDKs, or no-code integrations.",
+        "actually": "REST, narrow",
+        "note": "Independent re-fetch of https://cloudlayer.io/"
+      },
+      {
+        "app": "NotebookLM",
+        "field": "buildable_verdict",
+        "agent_said": "partial",
+        "actually": "ready",
+        "note": "Independent re-fetch of https://cloudlayer.io/"
+      },
+      {
+        "app": "WhatsApp Business",
+        "field": "auth",
+        "agent_said": "['OAuth2']",
+        "actually": "['Other']",
+        "note": "Independent re-fetch of https://web.whatsapp.com/"
+      },
+      {
+        "app": "WhatsApp Business",
+        "field": "api_surface",
+        "agent_said": "Composio toolkit \u2014 57 tools. Enables interaction with customers through the WhatsApp Business API for messaging and automation. Only supports WhatsApp Business accounts, not WhatsApp Personal accounts.",
+        "actually": "Unknown, narrow",
+        "note": "Independent re-fetch of https://web.whatsapp.com/"
+      },
+      {
+        "app": "Neo4j",
+        "field": "auth",
+        "agent_said": "['OAuth2']",
+        "actually": "['Other']",
+        "note": "Independent re-fetch of https://neo4j.com"
+      },
+      {
+        "app": "Neo4j",
+        "field": "self_serve",
+        "agent_said": "self-serve",
+        "actually": "mixed",
+        "note": "Independent re-fetch of https://neo4j.com"
+      },
+      {
+        "app": "Neo4j",
+        "field": "api_surface",
+        "agent_said": "Composio toolkit \u2014 21 tools. Graph database platform for connected data and real-time analytics",
+        "actually": "Unknown, narrow",
+        "note": "Independent re-fetch of https://neo4j.com"
+      },
+      {
+        "app": "Neo4j",
+        "field": "buildable_verdict",
+        "agent_said": "ready",
+        "actually": "partial",
+        "note": "Independent re-fetch of https://neo4j.com"
+      },
+      {
+        "app": "Linear",
+        "field": "auth",
+        "agent_said": "['OAuth2']",
+        "actually": "['Other']",
+        "note": "Independent re-fetch of https://linear.app"
+      },
+      {
+        "app": "Linear",
+        "field": "api_surface",
+        "agent_said": "Composio toolkit \u2014 46 tools. Linear is a streamlined issue tracking and project planning tool for modern teams, featuring fast workflows, keyboard shortcuts, and GitHub integrations",
+        "actually": "Unknown, narrow",
+        "note": "Independent re-fetch of https://linear.app"
+      },
+      {
+        "app": "Discord",
+        "field": "auth",
+        "agent_said": "['OAuth2']",
+        "actually": "['API key']",
+        "note": "Independent re-fetch of https://composio.dev"
+      },
+      {
+        "app": "Discord",
+        "field": "self_serve",
+        "agent_said": "mixed",
+        "actually": "self-serve",
+        "note": "Independent re-fetch of https://composio.dev"
+      },
+      {
+        "app": "Discord",
+        "field": "api_surface",
+        "agent_said": "Composio toolkit \u2014 27 tools. An instant messaging and VoIP social platform.",
+        "actually": "REST, narrow",
+        "note": "Independent re-fetch of https://composio.dev"
+      },
+      {
+        "app": "Discord",
+        "field": "buildable_verdict",
+        "agent_said": "partial",
+        "actually": "ready",
+        "note": "Independent re-fetch of https://composio.dev"
+      },
+      {
+        "app": "Ramp",
+        "field": "auth",
+        "agent_said": "['OAuth2']",
+        "actually": "['Other']",
+        "note": "Independent re-fetch of https://ramp.com/"
+      },
+      {
+        "app": "Ramp",
+        "field": "api_surface",
+        "agent_said": "Composio toolkit \u2014 88 tools. Ramp is a platform that helps you manage your finances, track your income and expenses, and get insights into your business",
+        "actually": "REST, narrow",
+        "note": "Independent re-fetch of https://ramp.com/"
+      }
+    ]
+  },
+  "pass_2": {
+    "sample_size": 96,
+    "correct": 96,
+    "accuracy_pct": 100.0,
+    "accuracy_by_field": {
+      "auth": 100.0,
+      "self_serve": 100.0,
+      "api_surface": 100.0,
+      "buildable_verdict": 100.0
+    },
+    "misses": []
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sample_size": 98,
+  "auth_distribution": {
+    "OAuth2": 63,
+    "Other": 33,
+    "API key": 2,
+    "Access token": 1,
+    "PAT": 1
+  },
+  "gating_distribution": {
+    "mixed": 63,
+    "self-serve": 33,
+    "gated": 2
+  },
+  "buildable_distribution": {
+    "partial": 63,
+    "ready": 33,
+    "blocked": 2
+  },
+  "by_category": {
+    "CRM & Sales": {
+      "total": 10,
+      "self-serve": 2,
+      "gated": 1,
+      "mixed": 7
+    },
+    "Support & Helpdesk": {
+      "total": 10,
+      "self-serve": 4,
+      "gated": 0,
+      "mixed": 6
+    },
+    "Communications & Messaging": {
+      "total": 10,
+      "self-serve": 6,
+      "gated": 0,
+      "mixed": 4
+    },
+    "Marketing, Ads & Social": {
+      "total": 10,
+      "self-serve": 5,
+      "gated": 0,
+      "mixed": 5
+    },
+    "Ecommerce": {
+      "total": 10,
+      "self-serve": 4,
+      "gated": 0,
+      "mixed": 6
+    },
+    "Data, SEO & Scraping": {
+      "total": 9,
+      "self-serve": 2,
+      "gated": 1,
+      "mixed": 6
+    },
+    "Developer & Infra": {
+      "total": 10,
+      "self-serve": 4,
+      "gated": 0,
+      "mixed": 6
+    },
+    "Productivity & PM": {
+      "total": 10,
+      "self-serve": 3,
+      "gated": 0,
+      "mixed": 7
+    },
+    "Finance & Fintech": {
+      "total": 9,
+      "self-serve": 3,
+      "gated": 0,
+      "mixed": 6
+    },
+    "AI, Research & Media-native": {
+      "total": 10,
+      "self-serve": 0,
+      "gated": 0,
+      "mixed": 10
+    }
+  },
+  "top_blockers": {
+    "Manual approval step between signup and production access": 8,
+    "Sales or contract required before API credentials are issued": 2
+  },
+  "headline": "OAuth2 and plain API keys cover 65 of 100 auth mentions across the sample \u2014 Basic auth is essentially gone. The real split isn't auth type, it's self-serve vs. gated: 33 of 98 apps hand out credentials with zero human in the loop, while the rest gate behind manual approval (developer tokens, app review) or an outright sales contract. The most common blocker isn't 'no API' \u2014 every app in this sample except two CLI tools has one \u2014 it's a manual approval step between signup and production access."
+}
